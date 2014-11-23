@@ -359,6 +359,25 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#pricing {
+    background-attachment: scroll;
+    background-image: url('../img/header-bg-3.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#pricing .section-heading {
+  color: #fff;
+}
+
+#pricing .col-md-4 {
+
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
